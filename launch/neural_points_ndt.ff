@@ -1,6 +1,6 @@
 --v=1
 --alsologtostderr=true
---ndt_source_cloud_filename=./samples/comedor/neural_points_split_1.pcd
+--ndt_source_cloud_filename=../samples/comedor/neural_points_split_1.pcd
 --ndt_target_cloud_filename=../samples/comedor/neural_points_split_2.pcd
 --ndt_aligned_cloud_filename=../samples/comedor/aligned.pcd
 --ndt_source_filter_size=0
